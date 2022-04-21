@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let config = {
     type: Phaser.WEBGL,
     width: 640,
@@ -26,6 +25,4 @@ let config = {
   let borderPadding = borderUISize / 3;
   // reserve keyboard vars
   let keyF, keyR, keyLEFT, keyRIGHT;
-=======
 // Testing git push - Ernani
->>>>>>> 218b64c0d2c0dd2bd2201da72499733bf2b449f8
